@@ -1,0 +1,13 @@
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.csprojAssemblyReference.cache
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.AssemblyInfoInputs.cache
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.AssemblyInfo.cs
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.csproj.CoreCompileInputs.cache
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\bin\Debug\netcoreapp3.1\Exercise3-NBALL.exe
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\bin\Debug\netcoreapp3.1\Exercise3-NBALL.deps.json
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\bin\Debug\netcoreapp3.1\Exercise3-NBALL.runtimeconfig.json
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\bin\Debug\netcoreapp3.1\Exercise3-NBALL.runtimeconfig.dev.json
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\bin\Debug\netcoreapp3.1\Exercise3-NBALL.dll
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\bin\Debug\netcoreapp3.1\Exercise3-NBALL.pdb
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.dll
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.pdb
+C:\Users\balln_000\source\repos\Exercise3-NBALL\Exercise3-NBALL\obj\Debug\netcoreapp3.1\Exercise3-NBALL.genruntimeconfig.cache
